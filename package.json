@@ -1,0 +1,19 @@
+{
+  "name": "la-chouette-agence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass" : "sass --watch ./public/scss/main.scss:./public/css/styles.css --style expanded"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gael-dev/la-chouette-agence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gael-dev/la-chouette-agence/issues"
+  },
+  "homepage": "https://github.com/gael-dev/la-chouette-agence#readme"
+}
